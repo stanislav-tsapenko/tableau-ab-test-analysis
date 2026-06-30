@@ -24,5 +24,5 @@ This project focuses on evaluating the results of A/B tests to optimize e-commer
 - [Jupyter Notebook with Statistical Analysis](https://colab.research.google.com/drive/1iGhDSElmrQtuGEKYiJduTmhTlnjSkKnA?usp=sharing)
 
 ## 📸 Visualization
-*(<img width="498" height="622" alt="image" src="https://github.com/user-attachments/assets/d6a05601-cd98-4a39-8bae-59045eaf539d" />
-)*
+*<img width="625" height="866" alt="image" src="https://github.com/user-attachments/assets/9a882c91-7e17-4cfd-9c49-5d70f8beb1ee" />
+
